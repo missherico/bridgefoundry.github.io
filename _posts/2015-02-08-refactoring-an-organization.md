@@ -2,10 +2,9 @@
 layout: post
 title: Refactoring an Organization
 ---
+We're bridge builders. We are dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We also believe that programming literacy is a fundamental skill, and that people need to understand the technologies they depend on. To reach this goal, we're helping organizations train, mentor, network, and encourage people -- particularly those who are underrepresented -- to fully participate in technology, and have fun doing it.  
 
-# Refactoring an Organization
-
-We're bridge builders. We are dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We also believe that programming literacy is a fundamental skill, and that people need to understand the technologies they depend on. To reach this goal, we're helping organizations train, mentor, network, and encourage people -- particularly those who are underrepresented -- to fully participate in technology, and have fun doing it.
+<!--more-->
 
 ## Open Source Workshops
 The the first [open source workshop](http://www.ultrasaurus.com/2009/06/open-source-workshop/) was held in June 2009.  What started as an idea in April, quickly become part of an organization dedicated to creating a diverse and supportive community of software makers.  It was named RailsBridge, since it emerged from the Ruby on Rails community, but from the start, volunteers were passionate about teaching all kinds of tech to all kinds of people -- from teaching kids Ruby and Arduino to [Test First](http://testfirst.org/) lessons in JavaScript, all sorts of initiatives explored the challenge of creating an open and welcoming tech community.  Many programs were successful and life-changing.  The workshops scaled rapidly and went viral.
