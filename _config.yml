@@ -1,0 +1,11 @@
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+encoding: utf-8
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
