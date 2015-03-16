@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Blog
+title: Draft Blog Posts
 ---
 {% for post in site.posts %}
-  {% unless post.draft %}
+  {% if post.draft %}
 
 ## [{{ post.title }} ]({{ post.url }})
 {{ post.date | date_to_string }}
   {{ post.excerpt }}
 [read more]({{ post.url }})
 
-  {% endunless %}
+  {% endif %}
 {% endfor %}
