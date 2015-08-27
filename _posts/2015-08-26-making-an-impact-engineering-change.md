@@ -2,7 +2,7 @@
 layout: post
 title: Making An Impact, Engineering Change
 ---
-By [Isa Herico](http://www.twitter.com/msherico), contributor
+The Bridge Foundry community is filled with passionate change agents.
 
 Not too long from when Sarah Allen and I met, she told me the story of [Stone Soup](https://en.wikipedia.org/wiki/Stone_Soup).  In this story, a group of people combine forces to make something happen in order to help themselves and each other.
 As one having organized ​some [​RailsBridge](http://railsbridge.org/) workshops, I can attest to the incredible forces that bring all of the volunteers together (teachers and assistants, organizers, donors, advocates) to make not only workshops happen but to keep the ​RailsBridge ​soup pot full.  ​Those that have donated their time and energy into any Bridge Foundry effort, let's call them *​\*Bridgers*,​​ ​keep connections ​and pipelines ​open​ to​ build and cultivate​ this network.
@@ -13,11 +13,11 @@ Currently, Michelle is helping spearhead [the Indiegogo Campaign to get #ILookLi
 
 __Q: Let's start with an introduction, tell us a little about yourself and you *\*Bridge* connection.__
 
->Hi, I'm [Michelle Glauser](https://twitter.com/MichelleGlauser), a full-stack web developer at Zana.io and self-proclaimed "inviter of women to tech." I first found out about RailsBridge when I was googling "how to build a website." Since I was living in San Francisco, I was excited to see some workshops coming up and joined one at Github. I attended several workshops after that and after I did Hackbright Academy, I began to gather all sorts of learning-to-code resources in a [spreadsheet](http://michelleglauser.blogspot.com/2013/03/resources-for-learning-to-code-and.html) that I've curated ever since. When I moved to Shanghai for nine months, I organized the first RailsBridge workshop in mainland China.
+>Hi, I'm [Michelle Glauser](https://twitter.com/MichelleGlauser), a full-stack web developer at Zana.io and self-proclaimed "inviter of women to tech." I first found out about RailsBridge when I was googling "how to build websites." Since I was living in San Francisco, I was excited to see some workshops coming up and joined one at GitHub. I attended several workshops after that and after I did Hackbright Academy, I began to gather all sorts of learning-to-code resources in a [spreadsheet](http://michelleglauser.blogspot.com/2013/03/resources-for-learning-to-code-and.html) that I've curated ever since. When I moved to Shanghai for nine months, I organized the first RailsBridge workshop in mainland China.
 
 __Q: What made you get into technology?__
 
->I wrote my Master's thesis on autobiographical acts on the internet, so I was very interested in how we use the technology to tell our stories. I was hoping to get into a PhD program to become a professor of digital humanities, but when that didn't pan out, I was working at a small startup in San Francisco. I was supposed to post social media updates about our product, but I didn't feel like I was getting new things fast enough. I started wishing I could just build stuff myself and that's how I ended up googling "how to build websites." The interesting thing is that looking back on my life, I'd always been interested in computers and technology (I'd been blogging since 2003, for example, and I was the only member of my family who loved to play around with DOS), but I'd just never known what the options were for careers and had never knew what I could learn.
+>I wrote my Master's thesis on autobiographical acts on the internet, so I was very interested in how we use technology to tell our stories. I was hoping to get into a PhD program to become a professor of digital humanities, but when that didn't pan out, I was working at a small startup in San Francisco. I was supposed to post social media updates about our product, but I didn't feel like I was getting new things fast enough. I started wishing I could just build stuff myself and that's how I ended up googling "how to build websites." The interesting thing is that looking back on my life, I'd always been interested in computers and technology (I'd been blogging since 2003, for example, and I was the only member of my family who loved to play around with DOS), but I'd just never known what the options were for careers and had never known what I could learn.
 
 __Q: Why is [#ILookLikeAnEngineer](https://www.indiegogo.com/projects/let-s-put-up-an-ilooklikeanengineer-billboard#/story) important to you?__
 
@@ -31,12 +31,15 @@ __Q: You are a connector, with lots of concurrent projects going.  I know many o
 
 __Q: Technology is prevalent in our lives, in what way do you think that we can help people expand their relationship with technology?  Like, from consumer to builder?__
 
->Honestly believe that everyone should learn to code, even a little bit, because if people had a better idea of what's possible, we could see technology expand in ways we haven't thought of yet.
+>I honestly believe that everyone should learn to code, even a little bit, because if people had a better idea of what's possible, we could see technology expand in ways we haven't thought of yet.
 
+__Q: What is the status of the billboard campaign and how can we help?__
 >Our [campaign to get an #ILookLikeAnEngineer billboard](http://igg.me/at/i-look-like-an-engineer) (and possibly some online ads as well) is about $15,000 short right now. We've been working on getting some corporate sponsors (who will get their logos on the ad), but since this has been such a grassroots movement, the time each member of the organizing committee can spend on that is limited—we all have full-time day jobs. Any help from the community that relates to [#ILookLikeAnEngineer](http://igg.me/at/i-look-like-an-engineer) or supports the movement would be greatly appreciated.
 
 >I can't say enough how amazing it has been to connect with so many people who have had similar experiences, to see what we've accomplished in such a short time, and to feel inspired to do something to encourage more inclusion and understanding in tech and beyond.
 
 ​It is comforting and humbling to know that to be a part of the larger Bridge Foundry community is to be shoulder to shoulder with caring world citizens that are passionate about life and the advancement of humanity.  We thrive at watching the people around us live their truth and honesty.
 
-Passion is electric.  It is contagious.  And it can be magnified.​  ​We can positively affect our environment with what we radiate out to it.  [#ILookLikeAnEngineer](http://igg.me/at/i-look-like-an-engineer)  - this one idea and one focal point, is it's own stone soup.  In true *\*Bridge* fashion, let us bring what we can to the table - to make this billboard happen - and let us feed each other with the energy that can catapult more positive ideas into the light.
+Passion is electric.  It is contagious.  And it can be magnified.​  ​We can positively affect our environment with what we radiate out to it.  [#ILookLikeAnEngineer](http://igg.me/at/i-look-like-an-engineer)  - this one idea and one focal point, is its own stone soup.  In true *\*Bridge* fashion, let us bring what we can to the table - to make this billboard happen - and let us feed each other with the energy that can catapult more positive ideas into the light.
+
+By [Isa Herico](http://www.twitter.com/msherico), contributor
