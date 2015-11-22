@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MobileBridge iOS Workshop at PlanGrid, April 2015
-draft: true
 ---
 <a href="/images/blog/2015-04-29-mobilebridgesf-ios-plangrid.jpg"><img src="/images/blog/2015-04-29-mobilebridgesf-ios-plangrid-sm.jpg" width="100%"/></a>
 Last weekend, [PlanGrid](http://www.plangrid.com/) hosted the third [MobileBridge](https://github.com/mobilebridge) iOS workshop, teaching iPhone app development to women and their friends.  We split into 3 classes. Two classes taught the [Rotten Tomatoes curriculum](https://github.com/mobilebridge/iosbridge-rottentomatoes) — populating a tableview with data from the internet.  The third class learned from the new [prototyping curriculum](https://github.com/mobilebridge/iosbridge-prototyping), where students sketched app UI on paper, consulted quick usability tests, then used photos of the sketches as screens in a working iOS app.
