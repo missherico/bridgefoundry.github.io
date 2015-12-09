@@ -11,7 +11,7 @@ Each *\*Bridge* contributor is doing what it takes to make computer language lit
 
 Currently, Michelle is helping spearhead [the Indiegogo Campaign to get #ILookLikeAnEngineer big and bold on a billboard](https://www.indiegogo.com/projects/let-s-put-up-an-ilooklikeanengineer-billboard#/story).  We caught up with Michelle and she gave us a great insight on her journey and why she is passionate about this cause.
 
-__Q: Let's start with an introduction, tell us a little about yourself and you *\*Bridge* connection.__
+__Q: Let's start with an introduction, tell us a little about yourself and your *\*Bridge* connection.__
 
 >Hi, I'm [Michelle Glauser](https://twitter.com/MichelleGlauser), a full-stack web developer at Zana.io and self-proclaimed "inviter of women to tech." I first found out about RailsBridge when I was googling "how to build websites." Since I was living in San Francisco, I was excited to see some workshops coming up and joined one at GitHub. I attended several workshops after that and after I did Hackbright Academy, I began to gather all sorts of learning-to-code resources in a [spreadsheet](http://michelleglauser.blogspot.com/2013/03/resources-for-learning-to-code-and.html) that I've curated ever since. When I moved to Shanghai for nine months, I organized the first RailsBridge workshop in mainland China.
 
