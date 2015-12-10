@@ -39,6 +39,6 @@ It was so cool to walk around and see the progress students were making with ind
 
 <a href="/images/blog/December2015/TTLRailsGroup.jpg"><img src="/images/blog/December2015/TTLRailsGroup.jpg" alt="First Rails workshop at a lab in the Tenderloin group picture" width="100%"/></a>
 
-Overall, the workshop was a great success. Thank you to the volunteers, to the Tenderloin Tech Lab, and to St. Anthony's Dining Room. I'm organizing more of these workshops so we can teach coding to people who may not have their own laptops. If you know of a woman or genderqueer adult in San Francisco who doesn't have a computer, is interested in learning to code, and who is comfortable using computers to send emails, please have them fill out [this form](http://goo.gl/forms/dlAqpnQ0AV).
+Overall, the workshop was a great success. Thank you to the volunteers, to the Tenderloin Tech Lab, and to St. Anthony's Dining Room. I'm organizing more of these workshops so we can teach coding to people who may not have their own laptops. If you know of a woman or genderqueer adult in San Francisco who doesn't have a computer, is interested in learning to code, and who is comfortable using computers to send emails, please have them fill out [this form](http://goo.gl/forms/lWROyKWJUe). If you're interested in helping with these free coding workshops at computer labs, please fill out [this form](http://goo.gl/forms/WWtXHwdkOZ).
 
 By [Michelle Glauser](https://twitter.com/MichelleGlauser), organizer
