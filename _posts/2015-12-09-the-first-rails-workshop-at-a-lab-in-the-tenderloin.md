@@ -34,7 +34,7 @@ The afternoon work session went by very quickly. A few people were able to get t
 <a href="/images/blog/2015-12-ttl/teacher-student.jpg"><img src="/images/blog/2015-12-ttl/teacher-student.jpg" alt="Student and teacher coding together" width="50%"/></a>
 
 
-<a href="/images/blog/2015-12-ttl/teacher-student2.jpg"><img src="/images/blog/2015-12-ttl/teacher-student2.jpg" alt="Student and teacher coding together" width="40%"/></a>
+<a href="/images/blog/2015-12-ttl/teacher-student2.jpg"><img src="/images/blog/2015-12-ttl/teacher-student2.jpg" alt="Student and teacher coding together" width="50%"/></a>
 
 
 It was so cool to walk around and see the progress students were making with individual help and to hear their questions and the volunteers' great answers. I'm sure coding was a bit overwhelming for many students at first, but the surveys I had them fill out at the end showed that they were interested in what they'd learned, very happy with the volunteers, and enthusiastic about attending another workshop.
