@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The First Rails Workshop at a Lab in the Tenderloin
+title: The First Tenderloin Workshop
 ---
 
 <a href="/images/blog/2015-12-ttl/intro-session.jpg"><img src="/images/blog/2015-12-ttl/intro-session.jpg" alt="Tenderloin Rails workshop introduction" width="100%"/></a>
