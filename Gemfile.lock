@@ -70,6 +70,3 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   rdiscount
-
-BUNDLED WITH
-   1.10.4
