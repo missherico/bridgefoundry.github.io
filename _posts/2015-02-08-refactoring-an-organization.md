@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refactoring an Organization
-tags: draft
+tags: ready
 ---
 We're bridge builders. We are dedicated to doing whatever it takes so that the makers of technology are reflective of our society, because diversity fosters innovation. We also believe that programming literacy is a fundamental skill, and that people need to understand the technologies they depend on. To reach this goal, we're helping organizations train, mentor, network, and encourage people -- particularly those who are underrepresented -- to fully participate in technology, and have fun doing it.  
 

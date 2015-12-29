@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Creative Ways to Thank Volunteers
-draft: true
 ---
 Volunteers are the lifeblood of workshops. The continuing efforts behind [curriculum](https://github.com/railsbridge/docs), [bridgetroll](https://www.bridgetroll.org/), and [cookbook docs](https://github.com/railsbridge/docs/wiki/Cookbook) would not move forward without them. If you find it hard to express just how much these volunteers mean try one of these creative ways to say thanks.
 
