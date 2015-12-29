@@ -16,15 +16,21 @@ layout: default
 
 ### 3) Get Started
 
-* figure out what to teach
-* best practices / common patterns
-  * organizing with github issues for workshops, forked from: https://github.com/mobilebridge/organizing
+* figure out your approach, what is unique about your bridge
+* open communication: best practices / common patterns
+  * organizing with github issues forked from: https://github.com/mobilebridge/organizing
   * Google Group or other open forum
-  * encouraging new teachers
-  * have a volunteer meeting
+  * encouraging additional teachers/volunteers
+  * hold a volunteer meeting
+  * make a list of things you would like volunteers to help with
+  * announce your effort on the Bridge Foundry google group, create a slack channel
+* plan your first activity
   * teacher training
   * hold your first workshop!
-  * blog about it, do it again
+  * online documentation efforts
+  * open source coding
+  * your special event
+* blog about it, do it again
 
 ### 4) Make it sustainable
 

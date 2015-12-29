@@ -38,4 +38,4 @@ I can't say enough about how such a tiny thing creates HUGE motivation.  We had 
 **Stay in Touch**
 A larger percentage of teens in the workshop will be eager to continue and learn more than you may find in a traditional workshop.  Consider hosting a monthly meetup with the teens to continue to check on their progress.  We'll share more on follow up in the weeks to come.
 
-Feel free to reach out if you have any questions about organizing a Railsbridge Teen in your area.  Create the opportunity and they will come.
+Feel free to <mailto: reach out if you have any questions about organizing a Railsbridge Teen in your area.  Create the opportunity and they will come.

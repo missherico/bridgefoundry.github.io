@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: Latest News
 ---
 {% for post in site.posts %}
   {% unless post.draft %}
