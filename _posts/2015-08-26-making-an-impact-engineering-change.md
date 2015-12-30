@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Making An Impact, Engineering Change
+tags: ready
 ---
 The Bridge Foundry community is filled with passionate change agents.
 

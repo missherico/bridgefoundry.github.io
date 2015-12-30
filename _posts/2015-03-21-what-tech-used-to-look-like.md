@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Tech Used to Look Like?
+tags: ready
 ---
 In the early days of computing, coding was women's work. The word 'computer' used to refer to people (mostly women) whose job was to compute. [Early computers](http://www.amazon.com/When-Computers-Human-David-Grier/dp/0691091579) calculated with slide rules and later with [mechanical calculators](http://www.ultrasaurus.com/2006/10/anybody-got-a-slide-rule/). Then during World War II, women with Math degrees were recruited to program the first digital computers. With the end of the war, many stepped back, giving up their jobs to returning veterans, and by the 1960s, software development became a male-dominated field.
 

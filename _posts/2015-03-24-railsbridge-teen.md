@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Railsbridge Teen Organizing Tips
-draft: true
 ---
 
 Last year Panama City, FL offered the first ever "Railsbridge Teen" and it turned out to be an amazing experience.  Most of the effort planning a teen Railsbridge paralleled the organizer cookbook preparation used for a traditional workshops, with just a few exceptions:

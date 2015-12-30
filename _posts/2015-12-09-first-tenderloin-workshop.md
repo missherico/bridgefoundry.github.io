@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The First Tenderloin Workshop
+tags: ready
 ---
 
 <a href="/images/blog/2015-12-ttl/intro-session.jpg"><img src="/images/blog/2015-12-ttl/intro-session.jpg" alt="Tenderloin Rails workshop introduction" width="100%"/></a>

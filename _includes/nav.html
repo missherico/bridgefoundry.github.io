@@ -1,0 +1,26 @@
+{% if site.tags.ready.size != 0 %}
+	{% assign prev_link = nil %}
+	{% assign next_link = nil %}
+	{% assign found_url = false %}
+	{% for ready_post in site.tags.ready %}
+		{% if ready_post.url == page.url %}
+			{% assign found_url = true %}
+			{% unless forloop.last %}
+				{% assign next_link = site.tags.ready[forloop.index].url %}
+			{% endunless %}
+		{% break %}
+		{% endif %}
+		{% assign prev_link = ready_post.url %}
+	{% endfor %}
+	{% if found_url %}
+		<ul class="list-inline">
+			{% if prev_link != nil %}
+			<li><a href="{{prev_link}}" class="btn btn-info">&#60; Prev</a></li>
+			{% endif %}
+			{% if next_link != nil %}
+				<li class="pull-right"><a href="{{next_link}}" class="btn btn-info">Next &#62;</a></li>
+			{% endif %}
+		</ul>
+		<div class="clearfix"></div>
+	{% endif %}
+{% endif %}
