@@ -5,6 +5,11 @@ defaults:
     values:
       layout: "default"
 
+repos:
+- name: Bridge Foundry
+  description: Main repository
+  url: https://github.com/bridgefoundry/bridgefoundry.github.io
+
 encoding: utf-8
 markdown: rdiscount
 rdiscount:
