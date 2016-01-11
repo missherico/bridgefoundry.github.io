@@ -30,7 +30,7 @@ The bridge is not only between experts and learners, but also designed as a way 
   * Make a list of things you would like volunteers to help with
   * Announce your effort on the Bridge Foundry google group, create a slack channel
 * Plan your first activity, for example:
-  * Teacher training and a first workshop
+  * Teacher training and a first workshop (check out the [WorkshopCookbook](https://github.com/bridgefoundry/WorkshopCookbook/wiki))
   * Online documentation efforts
   * Open source coding
   * Your special event
