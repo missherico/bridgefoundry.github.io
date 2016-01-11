@@ -3,6 +3,10 @@ layout: default
 ---
 # How to Make a Bridge
 
+A Bridge is dedicated to the free distribution of knowledge, often through in-person events, where people teach others a specific technology.  RailsBridge, ClojureBridge and MobileBridge are examples of Bridges.  Each Bridge has chapters in different geographic regions, or individual workshops are held wherever people are inspired to help.
+
+The bridge is not only between experts and learners, but also a designed as a way to reach out to people underrepresented in our community.  Allies are welcome as teachers and TAs. We offer training sessions not only about the curriculum, but also teach volunteers effective teaching techniques and how to create a safe space.
+
 ### 1) send email to hello@bridgefoundry.org
 
 * Meet with Sarah to discuss your understanding of the mission
