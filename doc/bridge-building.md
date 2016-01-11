@@ -21,24 +21,23 @@ The bridge is not only between experts and learners, but also designed as a way 
 
 ### 3) Get Started
 
-* figure out your approach, what is unique about your bridge
-* open communication: best practices / common patterns
-  * organizing with github issues forked from: https://github.com/mobilebridge/organizing
+* Figure out your approach: it's ok to borrow from other Bridges or do something new
+* Open communication: best practices / common patterns
+  * Organizing with github issues forked from: https://github.com/mobilebridge/organizing
   * Google Group or other open forum
-  * encouraging additional teachers/volunteers
-  * hold a volunteer meeting
-  * make a list of things you would like volunteers to help with
-  * announce your effort on the Bridge Foundry google group, create a slack channel
-* plan your first activity
-  * teacher training
-  * hold your first workshop!
-  * online documentation efforts
-  * open source coding
-  * your special event
-* blog about it, do it again
+  * Encouraging additional teachers/volunteers
+  * Hold a volunteer meeting
+  * Make a list of things you would like volunteers to help with
+  * Announce your effort on the Bridge Foundry google group, create a slack channel
+* Plan your first activity, for example:
+  * Teacher training and a first workshop
+  * Online documentation efforts
+  * Open source coding
+  * Your special event
+* Blog about it, Do it again
 
-### 4) Make it sustainable
+### 4) Make it Sustainable
 
-  * learn, adapt, iterate
-  * help others replicate your success, allow for their own interpretations / innovations
-  * figure out how to replace yourself
+  * Learn, adapt, iterate
+  * Help others replicate your success, allow for their own interpretations / innovations
+  * Figure out how to replace yourself
