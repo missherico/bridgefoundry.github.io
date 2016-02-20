@@ -11,6 +11,4 @@ repos:
   url: https://github.com/bridgefoundry/bridgefoundry.github.io
 
 encoding: utf-8
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
+markdown: kramdown
