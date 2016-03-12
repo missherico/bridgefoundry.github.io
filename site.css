@@ -15,5 +15,11 @@ body {
 .toc {
   background-color: #f8f8f8;
   border: 1px solid #e7e7e7;
-  padding: 10px 10px 0;
+  border-top: none;
+}
+
+#bridgefoundry-logo {
+  float: left;
+  width: 100px;
+  margin-right: 10px;
 }
