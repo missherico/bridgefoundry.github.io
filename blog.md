@@ -4,8 +4,8 @@ title: Latest News
 ---
 {% for post in site.tags.ready %}
 
-## [{{ post.title }} ]({{ post.url }})
+## [{{ post.title }} ]({{ site.github.url }}{{ post.url }})
 {{ post.date | date_to_string }}
   {{ post.excerpt }}
-[read more]({{ post.url }})
+[read more]({{ site.github.url}}{{ post.url }})
 {% endfor %}
