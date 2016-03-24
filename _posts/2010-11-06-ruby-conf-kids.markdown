@@ -24,5 +24,4 @@ Lessons learned: browser-based development is awesome for the quick start.  The 
 On Saturday, we had just two kids and Max led some soldering, kicking off the activities with a series of videos for inspiration.
 
 
-![soldering](/images/soldering.png)
-
+![soldering]({{ site.github.url }}/images/soldering.png)

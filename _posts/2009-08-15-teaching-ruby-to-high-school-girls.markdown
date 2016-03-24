@@ -114,7 +114,7 @@ Shoes.app :title => "My awesome application" do
 end
 </pre></code></div>
 
-They played around with named colors some more. Once they found a few colors that bona fide didn't exist as named colors in Shoes, like "copper," we looked at <a href="/images/shoes_colors.jpg">the color page in the Shoes manual</a>. Each color there has its equivalent `rgb` call underneath. I explained that you could say `tomato`, or you could equivalently say `rgb(255, 99, 71)`. The first number is red, the second color is green, and the third color is blue, and every color is a combination of those three colors. Since `tomato` is a reddish color, its first number, the red, is high relative to the other two. 
+They played around with named colors some more. Once they found a few colors that bona fide didn't exist as named colors in Shoes, like "copper," we looked at <a href="{{ site.github.url}}/images/shoes_colors.jpg">the color page in the Shoes manual</a>. Each color there has its equivalent `rgb` call underneath. I explained that you could say `tomato`, or you could equivalently say `rgb(255, 99, 71)`. The first number is red, the second color is green, and the third color is blue, and every color is a combination of those three colors. Since `tomato` is a reddish color, its first number, the red, is high relative to the other two. 
 
 If the color you want isn't named, you can use its `rgb` equivalent. I asked for suggestions for a color to try to make, and we settled on periwinkle. I sat down at the projector and erased `tomato` and replaced it with `rgb(`. Then I asked: the first number is red, the second color is green, the third color is blue, so what three numbers should I try?
 
