@@ -18,7 +18,7 @@ We decided to teach monthly workshops for 1 year. Teaching 10-20 women per month
 
 The first workshop was intended have a maximum of 40 students, but after two tweets and one mailing list post, we had a waiting list in less than
     24 hours. Orange Labs offered their large office space with 8 conference rooms. By enlisting men as well as women to teach and TA, we were able
-    to expand the capacity to 80, and 62 students participated in an overwhelmingly successful first event.
+    to expand the capacity to 80, and 62 students participated in an overwhelmingly successful [first event](http://www.sarahmei.com/blog/2009/06/14/the-first-rails-workshop/).
 
 With such huge demand and plenty of offers of large office space to hold events, we held large 50 student events every other month.
     In less than 6 months, we had met our goal of 20% women at SF Ruby Meetup events. Additionally, we noticed other significant impact on our
