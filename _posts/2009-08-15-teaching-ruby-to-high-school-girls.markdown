@@ -3,9 +3,7 @@ layout: post
 title: Teaching Ruby to High School Girls
 category: kids
 ---
-*August 15th, 2009*
-
-(Guest post by [Sarah Mei](http://sarahmei.com/blog))
+by [Sarah Mei](http://sarahmei.com/blog)
 
 For the last few years I've been volunteering one day each summer at the [GetSET](http://www.joyandshine.com/GetSET/) summer camp in Santa Clara. GetSET is pretty awesome, though their website is horrible. It's a week-long sleepaway summer camp for girls from under-represented minorities who live in the San Jose area. They first attend the summer before their freshman year of high school, and they return each year with the same group of cohorts.
 
@@ -21,9 +19,9 @@ It was half-day workshop, which means I had three hours with the girls. I quickl
 
 **Introduction**
 
-You can see [the slides I put together](http://sarahmei.github.com/getset/ruby_shoes.html#0) (they're HTML; use the arrow keys to move between them). They're pretty minimal - before we got started coding, we first did a quick welcome (slides 0-2), agenda and introductions (slides 3-7), and a little bit about "what is programming?" (slides 8-12). For the latter, I said that many people think programming is working in an endless cube farm (slide 9), with weird, possibly insane co-workers (slide 10), and doing a lot of math (slide 11). In fact, programming is more about language (slide 12) than math. I asked who in the class was bilingual; most of them raised their hands. I said programming is about learning to speak the language of the computer. I could see the lightbulbs lighting up! 
+You can see [the slides I put together](http://sarahmei.github.com/getset/ruby_shoes.html#0) (they're HTML; use the arrow keys to move between them). They're pretty minimal - before we got started coding, we first did a quick welcome (slides 0-2), agenda and introductions (slides 3-7), and a little bit about "what is programming?" (slides 8-12). For the latter, I said that many people think programming is working in an endless cube farm (slide 9), with weird, possibly insane co-workers (slide 10), and doing a lot of math (slide 11). In fact, programming is more about language (slide 12) than math. I asked who in the class was bilingual; most of them raised their hands. I said programming is about learning to speak the language of the computer. I could see the lightbulbs lighting up!
 
-Then we talked about Ruby and Shoes (slides 13-17). I asked who had ever been a translator, going between someone who didn't speak English and someone who did - most raised their hands. I said the Ruby interpreter (slide 13) translates your Ruby code into something the computer can understand, just like a human interpreter translates from one language to another. Shoes (slide 14) translates your Shoes code into something Ruby can understand. Your program is on top of the stack (slide 16). 
+Then we talked about Ruby and Shoes (slides 13-17). I asked who had ever been a translator, going between someone who didn't speak English and someone who did - most raised their hands. I said the Ruby interpreter (slide 13) translates your Ruby code into something the computer can understand, just like a human interpreter translates from one language to another. Shoes (slide 14) translates your Shoes code into something Ruby can understand. Your program is on top of the stack (slide 16).
 
 Then I explained the workflow we'd use to program (slide 18). We had a folder on the desktop to hold the source file. To open the source file for editing, we dragged it to the Notepad shortcut. To run it, we dragged it to the Shoes shortcut. This worked really well - much more successful than the edit-compile-run cycle that we had done in the Java class in years prior.
 
@@ -31,7 +29,7 @@ That was the end of the slides. After that, it was all collaborative coding!
 
 **Philosophy**
 
-This is an introduction to programming, so I focused on getting them excited about programming and what it can do. This meant that they got away with some horrible style, and, once in a while, some magic incantations. 
+This is an introduction to programming, so I focused on getting them excited about programming and what it can do. This meant that they got away with some horrible style, and, once in a while, some magic incantations.
 
 Ruby purists may protest that I didn't talk about objects, or classes, but for the ones who keep going with programming, they'll get that soon enough. In this class, I just wanted them to have fun and see what they could do with code.
 
@@ -41,7 +39,7 @@ Despite that focus, they formed an intuitive understanding of some pretty sophis
 
 I had them start with a blank file. Last year, I was a TA in [Akkana Peck's](http://shallowsky.com) Javascript class with this same group of girls when they were juniors. The Javascript class is their first programming class, and the girls start with an almost-working Javascript file and edit it to get it working. This time, I wanted to show them how in programming you really can start with nothing, and end up with something really cool.
 
-Together we wrote an etch-a-sketch program in a series of small steps. I used the agile development philosophies of short iterations and frequent deployment to drive the project. Short iterations means that each step is a fairly minor change - we add one thing that the program didn't have before. Frequent deployment means that we ran the code constantly to get strong visual feedback that they were making progress. These in combination seemed to hold everyone's interest. 
+Together we wrote an etch-a-sketch program in a series of small steps. I used the agile development philosophies of short iterations and frequent deployment to drive the project. Short iterations means that each step is a fairly minor change - we add one thing that the program didn't have before. Frequent deployment means that we ran the code constantly to get strong visual feedback that they were making progress. These in combination seemed to hold everyone's interest.
 
 For each step, I coded live on the projector with Notepad's font at 48pt. Then I ran the program to show them what the modified output would look like. Then I switched back to the code, got up, and walked around with the TAs to help the girls troubleshoot when they hit errors trying to make the change that was onscreen. There were 20 girls, 2 TAs, and me. The TAs were fabulous, but this was a pretty large class. Having one more TA - for one helper per five girls - would have been perfect.
 
@@ -49,11 +47,11 @@ For each step, I coded live on the projector with Notepad's font at 48pt. Then I
 
 <div style="border: 1px dashed blue; padding-left: 7px;"><code><pre>
 Shoes.app do
- 
+
 end
 </pre></code></div>
 
-Here we talked about do/end. I didn't explain blocks, exactly; I just said they'd be seeing the do/end combination in other places, and it just signifies the beginning and end of a section. Most of them typed `shoes` instead of `Shoes` at first, so we also talked about how computers are picky about spelling and capitalization of some words. 
+Here we talked about do/end. I didn't explain blocks, exactly; I just said they'd be seeing the do/end combination in other places, and it just signifies the beginning and end of a section. Most of them typed `shoes` instead of `Shoes` at first, so we also talked about how computers are picky about spelling and capitalization of some words.
 
 When you run this, you get a blank window titled "Shoes," which I don't think is super exciting, but the girls thought it was pretty cool.
 
@@ -65,7 +63,7 @@ Shoes.app do
 end
 </pre></code></div>
 
-Here we talked about strings. I said they could put whatever they wanted inside the quotes - the computer isn't picky about spelling and capitalization there. It's a sort of free zone for text. Also, I explained that `para` is short for "paragraph" the way `app` is short for "application," and that they'd be seeing a lot of abbreviations in programming. 
+Here we talked about strings. I said they could put whatever they wanted inside the quotes - the computer isn't picky about spelling and capitalization there. It's a sort of free zone for text. Also, I explained that `para` is short for "paragraph" the way `app` is short for "application," and that they'd be seeing a lot of abbreviations in programming.
 
 For several folks that was an a-ha moment; para is the Spanish word for "for," as in something "para usted" is "for you," and they'd been thinking Shoes spoke Spanish!
 
@@ -77,7 +75,7 @@ Shoes.app do
 end
 </pre></code></div>
 
-Here we talked about attributes as qualities that you attached to a particular object. In this case, we're attaching them to the paragraph object, so they're on the same line as `para`. 
+Here we talked about attributes as qualities that you attached to a particular object. In this case, we're attaching them to the paragraph object, so they're on the same line as `para`.
 
 The girls ran into a few issues here getting the punctuation right - commas after everything, colons before the attribute names, hashrockets (`=>`) between attributes and their values, and quotes around the values. I didn't explicitly talk about symbols, hashes, parameters, or implied hashes at the end of a method call. Instead I just pointed out that attributes always go at the end of a line, after the important stuff like what text you want.
 
@@ -100,7 +98,7 @@ Shoes.app :title => "My awesome application" do
 end
 </pre></code></div>
 
-I encouraged the girls to try other named colors. When `fushia` didn't work but `fuschia` did, we talked again about the computer's pickiness. When `dark red` didn't work but `darkred` did, we talked about identifiers, and how they can't have spaces. 
+I encouraged the girls to try other named colors. When `fushia` didn't work but `fuschia` did, we talked again about the computer's pickiness. When `dark red` didn't work but `darkred` did, we talked about identifiers, and how they can't have spaces.
 
 One girl asked if we could add an attribute to the `para` object to change the text color. Aha, they were paying attention when we talked about the scope of attributes! I didn't know the attribute name, so I looked it up. As I did so, I talked about how you don't have to memorize how everything is done to be a good programmer. You just need to know where to find out.
 
@@ -109,12 +107,12 @@ One girl asked if we could add an attribute to the `para` object to change the t
 <div style="border: 1px dashed blue; padding-left: 7px;"><code><pre>
 Shoes.app :title => "My awesome application" do
   background tomato
-  para "Hello, world", :align => "center", :size => "xx-large"<span class="changedcode">,</span> 
+  para "Hello, world", :align => "center", :size => "xx-large"<span class="changedcode">,</span>
                        <span class="changedcode">:stroke => saddlebrown</span>
 end
 </pre></code></div>
 
-They played around with named colors some more. Once they found a few colors that bona fide didn't exist as named colors in Shoes, like "copper," we looked at <a href="{{ site.github.url}}/images/shoes_colors.jpg">the color page in the Shoes manual</a>. Each color there has its equivalent `rgb` call underneath. I explained that you could say `tomato`, or you could equivalently say `rgb(255, 99, 71)`. The first number is red, the second color is green, and the third color is blue, and every color is a combination of those three colors. Since `tomato` is a reddish color, its first number, the red, is high relative to the other two. 
+They played around with named colors some more. Once they found a few colors that bona fide didn't exist as named colors in Shoes, like "copper," we looked at <a href="{{ site.github.url}}/images/shoes_colors.jpg">the color page in the Shoes manual</a>. Each color there has its equivalent `rgb` call underneath. I explained that you could say `tomato`, or you could equivalently say `rgb(255, 99, 71)`. The first number is red, the second color is green, and the third color is blue, and every color is a combination of those three colors. Since `tomato` is a reddish color, its first number, the red, is high relative to the other two.
 
 If the color you want isn't named, you can use its `rgb` equivalent. I asked for suggestions for a color to try to make, and we settled on periwinkle. I sat down at the projector and erased `tomato` and replaced it with `rgb(`. Then I asked: the first number is red, the second color is green, the third color is blue, so what three numbers should I try?
 
@@ -132,7 +130,7 @@ Shoes.app :title => "My awesome application" do
     <span class="changedcode">rgb(180,170,205)</span>
   <span class="changedcode">end</span>
   background <span class="changedcode">periwinkle</span>
-  para "Hello, world", :align => "center", :size => "xx-large", 
+  para "Hello, world", :align => "center", :size => "xx-large",
                        :stroke => saddlebrown
 end
 </pre></code></div>
@@ -143,7 +141,7 @@ I pointed out def/end as another set of section delimiters like do/end. In this 
 
 We got a lot of mileage out of colors, which I wasn't expecting. I thought we'd run quickly through background colors and get into event loops before the break, but the girls were enjoying adding their own color combinations, and I did get to talk about RGB, which I hadn't been expecting to do.
 
-Now though it was time to move on, so I announced that we were going to do something completely different - make the application interactive. 
+Now though it was time to move on, so I announced that we were going to do something completely different - make the application interactive.
 
 **Step 7 - adding a button**
 
@@ -158,8 +156,8 @@ Shoes.app :title => "My awesome application" do
     <span class="changedcode">@headline.text = "I'm changed!"</span>
   <span class="changedcode">end</span>
 
-  <span class="changedcode">@headline = </span>para "Hello, world", :align => "center", 
-                                   :size => "xx-large", 
+  <span class="changedcode">@headline = </span>para "Hello, world", :align => "center",
+                                   :size => "xx-large",
                                    :stroke => saddlebrown
 end
 </pre></code></div>
@@ -177,18 +175,18 @@ Shoes.app :title => "My awesome application" do
   end
   background periwinkle
 
-  <span class="changedcode">animate do</span> 
+  <span class="changedcode">animate do</span>
     <span class="changedcode">@button, @left, @top = self.mouse</span>
     @headline.text = <span class="changedcode">"#{@button} #{@left} #{@top}"</span>
   end
 
-  @headline = para "Hello, world", :align => "center", 
-                                   :size => "xx-large", 
+  @headline = para "Hello, world", :align => "center",
+                                   :size => "xx-large",
                                    :stroke => saddlebrown
 end
 </pre></code></div>
 
-In this step, we replaced the `button` block with an `animate` block that displays the current mouse coordinates in the `para` element. All window applications have an "event loop" that runs several times a second and checks for input. In this case, our `animate` block runs several times each second. Inside it, we call a built-in method in Shoes (like the color names are built-in methods) that gives us the current mouse coordinates. It gives us 3 numbers, which we store in 3 variables: `@button`, `@left`, and `@top`. 
+In this step, we replaced the `button` block with an `animate` block that displays the current mouse coordinates in the `para` element. All window applications have an "event loop" that runs several times a second and checks for input. In this case, our `animate` block runs several times each second. Inside it, we call a built-in method in Shoes (like the color names are built-in methods) that gives us the current mouse coordinates. It gives us 3 numbers, which we store in 3 variables: `@button`, `@left`, and `@top`.
 
 The coordinates for the window start at 0, 0 in the top left corner. `@left` is how many pixels from the left-hand side of the window the mouse is, `@top` is how many pixels down from the top the mouse is, and `@button` tells us whether or not the mouse button is pressed. They didn't totally get it until they wrote the code and saw it working, and saw how it updated the numbers whenever they moved the mouse or clicked inside the window.
 
@@ -205,13 +203,13 @@ Shoes.app :title => "My awesome application" do
   end
   background periwinkle
 
-  animate do 
+  animate do
     @button, @left, @top = self.mouse
     <span class="changedcode">line 0, 0, @left, @top</span>
   end
 
-  @headline = para "Draw!", :align => "center", 
-                            :size => "xx-large", 
+  @headline = para "Draw!", :align => "center",
+                            :size => "xx-large",
                             :stroke => saddlebrown
 end
 </pre></code></div>
@@ -220,9 +218,9 @@ In this step we replaced the `para` text replacement with a call to `line`, whic
 
 This went pretty quickly, and it really drove home that 0, 0 is the top left corner of the window. Some of the girls experimented with different origins so they could draw circular stars which I thought was a cool addition.
 
-One thing we did during this step that didn't work so well was to change the names of `@left` and `@top` to the more descriptive `@mouse_column` and `@mouse_row`. I talked a little about how you need to give variables descriptive names, but the new names were too long to see effectively in 48-pt font on the projector, and it's really tedious in Notepad to make sure you replace all the instances of `@left` and `@top`. 
+One thing we did during this step that didn't work so well was to change the names of `@left` and `@top` to the more descriptive `@mouse_column` and `@mouse_row`. I talked a little about how you need to give variables descriptive names, but the new names were too long to see effectively in 48-pt font on the projector, and it's really tedious in Notepad to make sure you replace all the instances of `@left` and `@top`.
 
-I realize now, as I mentioned in the Philosophy section, that with beginners, you can't be too fussy about style. If they want to skip indentation altogether and give all their variables one-letter names, that's fine, as long as they're still excited about what they're doing. 
+I realize now, as I mentioned in the Philosophy section, that with beginners, you can't be too fussy about style. If they want to skip indentation altogether and give all their variables one-letter names, that's fine, as long as they're still excited about what they're doing.
 
 If they keep going with it, they'll realize that there's a reason you indent and give your variables descriptive names, and they'll start doing it. But if I just tell them to, they won't. And nothing ensures that they drop it like a hot potato better than harping on them to write maintainable code.
 
@@ -237,15 +235,15 @@ Shoes.app :title => "My awesome application" do
   end
   background periwinkle
 
-  animate do 
+  animate do
     @button, @left, @top = self.mouse
     <span class="changedcode">unless @button == 0</span>
       <span class="changedcode">line 0, 0, @left, @top</span>
     <span class="changedcode">end</span>
   end
 
-  @headline = para "Draw!", :align => "center", 
-                            :size => "xx-large", 
+  @headline = para "Draw!", :align => "center",
+                            :size => "xx-large",
                             :stroke => saddlebrown
 end
 </pre></code></div>
@@ -263,7 +261,7 @@ Shoes.app :title => "My awesome application" do
   end
   background periwinkle
 
-  animate do 
+  animate do
     <span class="changedcode">previous_left = @left</span>
     <span class="changedcode">previous_top = @top</span>
     @button, @left, @top = self.mouse
@@ -272,13 +270,13 @@ Shoes.app :title => "My awesome application" do
     end
   end
 
-  @headline = para "Draw!", :align => "center", 
-                            :size => "xx-large", 
+  @headline = para "Draw!", :align => "center",
+                            :size => "xx-large",
                             :stroke => saddlebrown
 end
 </pre></code></div>
 
-I thought this would take us a long time to get through, but to my surprise, the girls seemed to pick it up really quickly. We had already talked about variables and how you use them to store something you want to get ahold of later. So I asked them: each time you run through the loop, what's the value of `@left` and `@top` *before* you call `self.mouse`? 
+I thought this would take us a long time to get through, but to my surprise, the girls seemed to pick it up really quickly. We had already talked about variables and how you use them to store something you want to get ahold of later. So I asked them: each time you run through the loop, what's the value of `@left` and `@top` *before* you call `self.mouse`?
 
 They got it - at that point, those variables contain the values you set them to the *last* time you ran the loop. So we save them again before we replace them with the current values, and then we draw a line from the old values to the new values.
 
@@ -293,7 +291,7 @@ Shoes.app :title => "My awesome application" do
   end
   background periwinkle
 
-  animate do 
+  animate do
     previous_left = @left
     previous_top = @top
     @button, @left, @top = self.mouse
@@ -310,15 +308,15 @@ Shoes.app :title => "My awesome application" do
                               <span class="changedcode">:stroke => saddlebrown</span>
   <span class="changedcode">end</span>
 
-  @headline = para "Draw!", :align => "center", 
-                            :size => "xx-large", 
+  @headline = para "Draw!", :align => "center",
+                            :size => "xx-large",
                             :stroke => saddlebrown
 end
 </pre></code></div>
 
 The last addition we had time for was a clear button, so that the girls didn't have to quit the program and start over to get a fresh drawing surface. It was pretty straightforward. You have a `button` block (which we'd seen before, when we changed the paragraph text), and then you `remove` the old text, which is now underneath the background, and redraw it on top of the background.
 
-If you don't `remove` it, even though it's now underneath the background, it will get in the way of a new one being drawn, and your headline will slowly creep down the window. This gave us the opportunity to talk about the Z-axis, and how, conceptually, some things are on top of other things in the window. 
+If you don't `remove` it, even though it's now underneath the background, it will get in the way of a new one being drawn, and your headline will slowly creep down the window. This gave us the opportunity to talk about the Z-axis, and how, conceptually, some things are on top of other things in the window.
 
 **Conclusions**
 
@@ -334,7 +332,7 @@ The girls rated the workshop quite highly, so I think it was a success. Next tim
 
 Teaching this class was a fantastic experience, and having the two TAs - both experienced programmers, but new to Ruby and Shoes - was invaluable. Thanks to Alice Callen and SWE for letting me put this together. I hope I'll be able to do it again next year.
 
-In the meantime, feel free to use my slides and code as the basis for your own Ruby workshop. Everything is available at [Github](http://sarahmei.github.com/getset). I've released my slides under the [Creative Commons Attribution license](http://creativecommons.org/licenses/by/3.0/us/), and the code under the [MIT license](http://www.opensource.org/licenses/mit-license.php). 
+In the meantime, feel free to use my slides and code as the basis for your own Ruby workshop. Everything is available at [Github](http://sarahmei.github.com/getset). I've released my slides under the [Creative Commons Attribution license](http://creativecommons.org/licenses/by/3.0/us/), and the code under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
 I'd love to get your ideas on how to improve this workshop. You can fork the project on Github, or [leave a comment on this post](http://www.sarahmei.com/blog/2009/08/15/teaching-ruby-to-high-school-girls/).
 
