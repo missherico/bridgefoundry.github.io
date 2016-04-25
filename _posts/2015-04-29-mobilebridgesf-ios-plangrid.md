@@ -3,7 +3,7 @@ layout: post
 title: MobileBridge iOS Workshop at PlanGrid, April 2015
 tags: ready
 ---
-<a href="/images/blog/2015-04-29-mobilebridgesf-ios-plangrid.jpg"><img src="/images/blog/2015-04-29-mobilebridgesf-ios-plangrid-sm.jpg" width="100%"/></a>
+<a href="{{ site.github.url }}/images/blog/2015-04-29-mobilebridgesf-ios-plangrid.jpg"><img src="{{ site.github.url }}/images/blog/2015-04-29-mobilebridgesf-ios-plangrid-sm.jpg" width="100%"/></a>
 Last weekend, [PlanGrid](http://www.plangrid.com/) hosted the third [MobileBridge](https://github.com/mobilebridge) iOS workshop, teaching iPhone app development to women and their friends.  We split into 3 classes. Two classes taught the [Rotten Tomatoes curriculum](https://github.com/mobilebridge/iosbridge-rottentomatoes) — populating a tableview with data from the internet.  The third class learned from the new [prototyping curriculum](https://github.com/mobilebridge/iosbridge-prototyping), where students sketched app UI on paper, consulted quick usability tests, then used photos of the sketches as screens in a working iOS app.
 
 In advance of the workshop, we held teacher training the previous Sunday evening.  The teachers not only reviewed the curriculum and what they would be teaching, but also discussed effective teaching techniques and how to create a safe space for learning.  MobileBridge teachers and TAs were about half women and men, but almost all of the students are women. (Men are allowed to participate as a guest of a woman, encouraging them to participate in the outreach.)  The majority of students had some prior programming experience, but all were new to iOS.
